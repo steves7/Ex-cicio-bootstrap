@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-weight: bold;
+
+}
+
+header {
+    padding: 16px 0;
+}
+
+body {
+    background-color: rgb(63, 61, 87);
+}
+
+.row {
+    margin-top: 8px;
+    
+}
+
+footer {
+    margin-top: 8px;
+    padding: 16px 0 ;
+}
